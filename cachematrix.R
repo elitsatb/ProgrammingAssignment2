@@ -55,7 +55,7 @@ cachemean <- function(x = numeric()) {
 }
 
 
-##Please include your own comment to explain your code (Required in Rubric)
+##
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
